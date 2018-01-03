@@ -63,7 +63,7 @@ you can use the generic selector below, but it's slower:
 .icon-twitter:hover, .icon-linkedin:hover, .icon-github:hover, .icon-mail:hover
 {
 	text-decoration: none;
-	color: #46c8f5;
+	color: #007FFF;
 }
 
 
